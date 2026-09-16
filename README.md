@@ -29,7 +29,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command "irm https://raw.githubus
 $memer-ai-media-mark-cleaner
 ```
 
-安装脚本会下载最新 Release、校验 SHA-256，并在覆盖旧版前创建时间戳备份。
+安装脚本会下载最新 Skill 文件和共享 Windows 运行包，分别校验 SHA-256，自动组装完整 Skill，并在覆盖旧版前创建时间戳备份。运行包只下载一份，不会重复下载同一套 FFmpeg/ExifTool。
 
 ### Codex 使用示例
 
