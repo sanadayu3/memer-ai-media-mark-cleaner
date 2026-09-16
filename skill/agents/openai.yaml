@@ -1,0 +1,8 @@
+interface:
+  display_name: "MemeR-AI图文视频印记数据清理"
+  short_description: "清理图片视频文件层印记并生成可视化复查报告"
+  brand_color: "#16794B"
+  default_prompt: "Use $memer-ai-media-mark-cleaner to clean file-level metadata from these media files and show the visual verification report."
+
+policy:
+  allow_implicit_invocation: true
