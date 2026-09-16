@@ -1,8 +1,8 @@
 $ErrorActionPreference = "Stop"
 
 $repo = "sanadayu3/memer-ai-media-mark-cleaner"
-$skillAssetName = "MemeR-AI图文视频印记数据清理-Codex-Skill.zip"
-$runtimeAssetName = "MemeR-AI图文视频印记数据清理-portable.zip"
+$skillAssetName = "MemeR-AI-Media-Mark-Cleaner-Codex-Skill.zip"
+$runtimeAssetName = "MemeR-AI-Media-Mark-Cleaner-portable.zip"
 $checksumsName = "SHA256SUMS.txt"
 $skillName = "memer-ai-media-mark-cleaner"
 $skillsRoot = Join-Path $HOME ".codex\skills"

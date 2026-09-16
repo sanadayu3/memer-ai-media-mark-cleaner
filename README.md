@@ -54,7 +54,7 @@ $memer-ai-media-mark-cleaner
 
 ## 下载独立 EXE
 
-- [下载 Windows 便携版](https://github.com/sanadayu3/memer-ai-media-mark-cleaner/releases/latest/download/MemeR-AI%E5%9B%BE%E6%96%87%E8%A7%86%E9%A2%91%E5%8D%B0%E8%AE%B0%E6%95%B0%E6%8D%AE%E6%B8%85%E7%90%86-portable.zip)
+- [下载 Windows 便携版](https://github.com/sanadayu3/memer-ai-media-mark-cleaner/releases/latest/download/MemeR-AI-Media-Mark-Cleaner-portable.zip)
 - [查看最新 Release](https://github.com/sanadayu3/memer-ai-media-mark-cleaner/releases/latest)
 
 解压后双击 `MemeR-AI图文视频印记数据清理.exe`。移动时请保留整个文件夹，不能只移动 EXE。
